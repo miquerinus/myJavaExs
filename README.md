@@ -1,15 +1,17 @@
-<h1> Pequeno repositorio de Exercicios JAVA </h1>
+<h1>Small repository of JAVA exercises</h1>
 
-<h2> Proposito </h2>
+<h2>Purpose</h2>
 
-- Deixar armazenado pequenos trechos de codigos escrito por mim em linguagem JAVA.
+    To store small snippets of code written by me in the JAVA language.
 
-<h2> Detalhes </h2>
+<h2>Details</h2>
 
-- Boa parte dos codigos escritos em java por mim foi usando a biblioteca SWINGX, Os motivos ? Criar uma experiencia mais intuitiva com usuúario (no caso eu).
+    - Most of the codes written in java by me were using the SWINGX library, Why? To create a more intuitive experience with the user (in my case).
 
-- Codigos parecem bastante verbosos mas isso se trata da propria natureza da linguagem, mas também há o fato de eu como estudante ainda em aprimoramento da logica de programação, ainda não conseguir por hora ser tão conciso na escrita dos codigos, fazendo assim codigos ficarem um pouco mais verbosos.
+    - Codes seem quite verbose but this is due to the nature of the language, but there is also the fact that I am still a student in the process of improving my programming logic, I still can't be so concise in writing the codes, making the codes a little more verbose.
 
-- Como ferramenta utilizei VScode com extensões disponiveis fornecido pela Red Hat.
-- Todos os codigos são escritos em ambiente linux, especificamente a distro Arch até o presente momento.
+    - As a tool I used VScode with extensions available provided by Red Hat.
+
+    - All codes are written in a Linux environment, specifically the Arch distro to date.
+
 
